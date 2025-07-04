@@ -1,0 +1,7 @@
+.swiper-slide img {
+    display: block;
+  }
+
+  .custom-width{
+    max-width: 400px !important;
+  }
